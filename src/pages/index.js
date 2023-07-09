@@ -1,0 +1,9 @@
+export { default as Home } from "./Home/Home";
+export { default as About } from "./About/About";
+export { default as Events } from "./Events/Events";
+export { default as News } from "./News/News";
+export { default as NewsItem } from "./News/NewsItem";
+export { default as Artists } from "./Artists/Artists";
+export { default as MediaCenter } from "./MediaCenter/MediaCenter";
+export { default as ContactUs } from "./ContactUs/ContactUs";
+export { default as Exhibitions } from "./Exhibitions/Exhibitions";
